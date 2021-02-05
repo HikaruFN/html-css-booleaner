@@ -1,0 +1,27 @@
+/*RESET*/
+
+* {
+  margin: 0;
+}
+
+/*COMMON*/
+
+.container {
+  width: 1024px;
+  margin: auto;
+}
+
+/*HEADER*/
+
+header {
+  background-color: rgb(38, 157, 255);
+  background-image: url(../img/pattern.png);
+  background-size: 450px;
+}
+
+.logo {
+  height: 60px;
+  margin-top: 50px;
+}
+
+/*FINE HEADER*/
