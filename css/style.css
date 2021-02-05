@@ -7,6 +7,15 @@
   width: 1024px;
   margin: auto;
 }
+.testo-grigio {
+  color: gray;
+}
+.testo-celeste {
+  color: rgb(3, 149, 247);
+}
+.testo-bianco {
+  color: white;
+}
 .evidenziatore {
   background-color: yellow;
 }
@@ -31,12 +40,6 @@ header {
   margin-top: 20px;
   line-height: 35px;
 }
-.testo-grigio {
-  color: gray;
-}
-.testo-celeste {
-  color: rgb(3, 149, 247);
-}
 .data {
   font-size: 12px;
 }
@@ -57,9 +60,30 @@ header {
   color: white;
 }
 .sfondo-tabella {
-  background-color: cyan;
+  background-color: rgb(64, 252, 252);
 }
 .testo-tabella {
   width: 50%;
 }
 /*FINE CONTENUTO TESTUALE*/
+/*FINE MAIN*/
+/*FOOTER*/
+footer {
+  margin-top: 20px;
+}
+.potrebbero-interessarti {
+  color: white;
+  background-image: url(../img/monitor.jpg);
+  width: 300px;
+  height: 250px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.potrebbero-interessarti1 {
+  color: white;
+  background-image: url(../img/graph.jpg);
+  width: 300px;
+  height: 250px;
+  margin-bottom: 20px;
+}
+/*FINE FOOTER*/
