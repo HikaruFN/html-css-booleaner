@@ -7,6 +7,9 @@
   width: 1024px;
   margin: auto;
 }
+.evidenziatore {
+  background-color: yellow;
+}
 /*HEADER*/
 header {
   background-color: rgb(38, 157, 255);
@@ -23,6 +26,7 @@ header {
 .titolo {
   font-size: 40px;
   margin-top: 20px;
+  line-height: 35px;
 }
 .testo-grigio {
   color: gray;
@@ -37,3 +41,11 @@ header {
   margin-top: 20px;
 }
 /*FINE INTESTAZIONE*/
+/*CONTENUTO TESTUALE*/
+.paragrafo {
+  margin-top: 20px;
+}
+.lista {
+  margin-top: 20px;
+}
+/*FINE CONTENUTO TESTUALE*/
