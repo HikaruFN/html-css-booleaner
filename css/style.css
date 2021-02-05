@@ -1,27 +1,39 @@
 /*RESET*/
-
 * {
   margin: 0;
 }
-
 /*COMMON*/
-
 .container {
   width: 1024px;
   margin: auto;
 }
-
 /*HEADER*/
-
 header {
   background-color: rgb(38, 157, 255);
   background-image: url(../img/pattern.png);
   background-size: 450px;
 }
-
 .logo {
   height: 60px;
   margin-top: 50px;
 }
-
 /*FINE HEADER*/
+/*MAIN*/
+/*INTESTAZIONE*/
+.titolo {
+  font-size: 40px;
+  margin-top: 20px;
+}
+.testo-grigio {
+  color: gray;
+}
+.testo-celeste {
+  color: rgb(3, 149, 247);
+}
+.data {
+  font-size: 12px;
+}
+.foto {
+  margin-top: 20px;
+}
+/*FINE INTESTAZIONE*/
